@@ -1,5 +1,6 @@
 # Chat app
 Author: José Mendes
+
 Student Number: b12744
 
 ### Requirements
